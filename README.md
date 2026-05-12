@@ -15,6 +15,6 @@ I’m a Computer Science student interested in programming, digital art, and cre
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Meaadwithy&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Meaadwithy&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Meaadwithy&icon=9&color=0)]
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- -->
