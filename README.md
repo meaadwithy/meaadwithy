@@ -12,7 +12,6 @@ I’m a Computer Science student interested in programming, digital art, and cre
 # 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=Meaadwithy&theme=nightowl&hide_border=true)<br/>
-![](https://streak-stats.demolab.com?user=Meaadwithy&theme=nightowl&hide_border=true&v=1)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Meaadwithy&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- -->
