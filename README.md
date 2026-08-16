@@ -5,12 +5,11 @@ I’m a Computer Science student interested in programming, digital art, and cre
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/meaadwithy)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/meaadwithy)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/meaadwithy?igsh=dTEyamRqNGlqMHkw&utm_source=qr](https://www.instagram.com/meaadwithy/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/meaadwithy/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://l.instagram.com/?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmeaad-alqthmi-0526122b3%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios&e=AUAbtlq_cxcMBwFzfl1jiKC139vLdaOip40GmIPUi_5WG5U7QyccTgWCCXLo-lYIbO2J4SjucUm0ecmqGPjJo4d44NLyOZTTkolM6EiKCxaYh2JIr7z_kRUWRsIW) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meaad-alqthmi-0526122b3/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Meaad.alqthmi145@gmail.com) 
 
 # 💻 Tech Stack:
