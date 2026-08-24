@@ -19,7 +19,7 @@ I’m a Computer Science student interested in programming, digital art, and cre
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 # 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Meaadwithy&theme=nightowl&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Meaadwithy&theme=nightowl)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Meaadwithy&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <!-- -->
