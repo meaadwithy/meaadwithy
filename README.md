@@ -2,7 +2,7 @@
 
 # About Me 💫 :
 I’m a Computer Science student interested in programming, digital art, and creative projects. <br>I enjoy learning new technologies and improving my skills in problem solving, software development, and character illustration.<br>
----
+___
 
 
 ## 🌐 Socials:
