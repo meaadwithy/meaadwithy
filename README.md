@@ -15,7 +15,7 @@ ___
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Procreate](https://img.shields.io/badge/Procreate-%23FFFFFF.svg?style=for-the-badge&logo=procreate&logoColor=black)
+![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 # 📊 GitHub Stats:
 
