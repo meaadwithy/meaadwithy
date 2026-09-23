@@ -22,4 +22,9 @@ ___
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Meaadwithy&theme=nightowl&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Meaadwithy&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meaadwithy&layout=compact&langs_count=4&theme=transparent&hide_border=true&title_color=6C63FF&text_color=555555&custom_title=Most%20Used%20Languages"
+  alt="Most Used Languages"
+/>
 <!-- -->
